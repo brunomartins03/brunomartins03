@@ -1,83 +1,57 @@
-<h2 align="left">Hey! I'm Bruno Martins</h2>
+# Bruno Martins
 
-### About me
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Software Engineering Illustration" width="380px" align="right" />
 
-<p align="left">- 🎓 Software Engineering undergraduate, currently in the 10th semester at <a href="https://unb.br/" target="_blank">University of Brasília (UnB)</a>.<br>- 💻 Intern at Presidência da República<br>- 🤖 Researcher in machine learning, focusing on early detection of diabetic retinopathy.<br>- 🐧 Contributor to the <a href="https://salsa.debian.org/gitbmvb" target="_blank">Debian packaging ecosystem</a>.<br>- 🌎 Fluent in English and French.<br>- ⚙️ Currently exploring algorithms for parallel and distributed systems, as well as database systems.<br>- ❤️ Passionate about computer science, software engineering, embedded systems, machine learning, and both pure and applied mathematics.<br>- 📚 Aspiring mathematician, with a long-term goal of advancing research in the field.</p>
+### Software Engineer · AI/ML Engineer · MLOps
 
-<div align="center"><img src="https://i.imgflip.com/9w0gf3.jpg" title="made at imgflip.com" width="300"></div>
+I am a Software Engineering student at the **University of Brasília (UnB)** with a deep interest in building scalable intelligent systems. My focus lies at the intersection of robust backend architecture and the deployment of machine learning models.
 
+* 📍 Based in **Brasília, Brazil**
+* 🎓 Finishing B.S. in **Software Engineering** (UnB)
+* 🧠 Interested in **Machine Learning Research, AI, and Applied Mathematics**
+* ⚙️ Passionate about **MLOps** and Automating Intelligence
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunomartins03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunomartins03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
-</div>
+## 🛠 Tech Stack
 
-###
+### 💻 Programming & Core
+![Languages](https://skillicons.dev/icons?i=python,go,ts,java,cpp&theme=dark)
 
-<!-- <div align="center" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="Haskell logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="Debian logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity logo" />
+### ⚙️ Backend & Infrastructure
+![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,spring,kafka,rabbitmq,graphql,nginx&theme=dark&perline=9)
 
-</div> -->
+### 🤖 AI/ML & Data Science
+![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,mysql,redis,mongo&theme=dark&perline=7)
 
+### ☁️ DevOps & MLOps
+![DevOps](https://skillicons.dev/icons?i=bash,docker,kubernetes,jenkins,aws,githubactions,linux&theme=dark&perline=7)
 
-###
+---
 
-<div align="left">
-  <a href="https://discord.com/users/brunmartins" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunomartins03&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins03&layout=compact&theme=dark&hide_langs_toggle=true" alt="Most Used Languages" height="180px" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:bruno.martval@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="mailto:bruno.martval@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/brunmartins">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/brunomartval/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://t.me/brunomartins03">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://gitlab.com/brunomartins03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-  <a href="https://t.me/brunmartins" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="http://wa.me/5561982797803" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brunomartins03/brunomartins03/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+</p>
