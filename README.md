@@ -12,6 +12,10 @@ I am a Computer Software Engineering student at the **University of Brasília (U
 * 🧠 Interested in **Machine Learning Research, AI, Formalization of Mathematics**
 * ⚙️ Passionate about **MLOps** and Automating Intelligence
 
+#### Languages
+
+🇧🇷🇵🇹 fluent/native | 🇺🇸🇬🇧 C1 CEFR | 🇫🇷 B2 CEFR | 🇪🇸 intermediate | 🇩🇪 beginner
+
 ---
 
 ## 🛠 Tech Stack
