@@ -4,11 +4,12 @@
 
 ### Software Engineer · AI/ML Engineer · MLOps
 
-I am a Software Engineering student at the **University of Brasília (UnB)** with a deep interest in building scalable intelligent systems. My focus lies at the intersection of robust backend architecture and the deployment of machine learning models.
+I am a Computer Software Engineering student at the **University of Brasília (UnB)** with a deep interest in building scalable intelligent systems. My focus lies at the intersection of robust backend architecture and the deployment of machine learning models.
 
 * 📍 Based in **Brasília, Brazil**
-* 🎓 Finishing B.S. in **Software Engineering** (UnB)
-* 🧠 Interested in **Machine Learning Research, AI, and Applied Mathematics**
+* 💼 Software Engineer & AI/ML Engineer Intern **@** [Brazil's Presidency of The Republic](https://www.gov.br/planalto/pt-br)
+* 🎓 Finishing B.Sc. in **Computer Software Engineering** **@** [University of Brasília (UnB)](https://unb.br)
+* 🧠 Interested in **Machine Learning Research, AI, Formalization of Mathematics**
 * ⚙️ Passionate about **MLOps** and Automating Intelligence
 
 ---
@@ -16,7 +17,7 @@ I am a Software Engineering student at the **University of Brasília (UnB)** wit
 ## 🛠 Tech Stack
 
 ### 💻 Programming & Core
-![Languages](https://skillicons.dev/icons?i=python,go,ts,java,cpp&theme=dark)
+![Languages](https://skillicons.dev/icons?i=rust,go,python,c,cpp,js,ts&theme=dark)
 
 ### ⚙️ Backend & Infrastructure
 ![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,spring,kafka,rabbitmq,graphql,nginx&theme=dark&perline=9)
@@ -32,8 +33,10 @@ I am a Software Engineering student at the **University of Brasília (UnB)** wit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunomartins03&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins03&layout=compact&theme=dark&hide_langs_toggle=true" alt="Most Used Languages" height="180px" />
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=brunomartins03&show_icons=true&theme=transparent)
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=brunomartins03&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins03&layout=compact&theme=dark&hide_langs_toggle=true" alt="Most Used Languages" height="180px" /> -->
 </p>
 
 ---
